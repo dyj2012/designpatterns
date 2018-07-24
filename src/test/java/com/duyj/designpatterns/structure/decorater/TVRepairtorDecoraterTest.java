@@ -3,8 +3,6 @@ package com.duyj.designpatterns.structure.decorater;
 import com.duyj.designpatterns.structure.decorater.model.TV;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * @author 杜永军
  * @date 2018/07/17

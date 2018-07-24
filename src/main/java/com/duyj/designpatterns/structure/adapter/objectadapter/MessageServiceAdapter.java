@@ -1,7 +1,7 @@
 package com.duyj.designpatterns.structure.adapter.objectadapter;
 
-import com.duyj.designpatterns.structure.adapter.classadapter.HeadMessageHelper;
 import com.duyj.designpatterns.structure.adapter.IMessageService;
+import com.duyj.designpatterns.structure.adapter.classadapter.HeadMessageHelper;
 
 /**
  * @author 杜永军

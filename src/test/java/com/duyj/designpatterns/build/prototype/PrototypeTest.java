@@ -4,8 +4,6 @@ import org.junit.Test;
 
 import java.io.IOException;
 
-import static org.junit.Assert.*;
-
 /**
  * @author 杜永军
  * @date 2018/07/16

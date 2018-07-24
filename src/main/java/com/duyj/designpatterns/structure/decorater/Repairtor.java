@@ -8,7 +8,7 @@ import com.duyj.designpatterns.structure.decorater.model.Stateable;
  */
 public class Repairtor {
 
-    public void repair(Stateable stateable){
+    public void repair(Stateable stateable) {
         System.out.println("repairing...");
         stateable.setState("ok");
     }

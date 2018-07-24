@@ -6,7 +6,7 @@ package com.duyj.designpatterns.structure.adapter.classadapter;
  */
 public class HeadMessageHelper {
 
-    public void dealMessageHead(){
+    public void dealMessageHead() {
         System.out.println("helper deal message head...");
     }
 }

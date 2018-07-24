@@ -27,7 +27,7 @@ public class IMessageServiceTest {
 
     @Test
     public void interfaceAdapterTest() {
-        IMessageService iMessageService  = new MessageBodyWrapper();
+        IMessageService iMessageService = new MessageBodyWrapper();
         iMessageService.dealMessageHead();
         iMessageService.dealMessageBody();
     }
